@@ -115,7 +115,7 @@ const LoginModal = () => {
             <div className="text-neutral-500 text-center font-light mt-4">
                 <div className="justify-center flex flex-row items-center gap-2">
                     <div>
-                        Don't have an account?
+                        Dont have an account?
                     </div>
                     <div
                         onClick={toggle}
